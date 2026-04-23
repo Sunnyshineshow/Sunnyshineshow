@@ -1,6 +1,6 @@
 ## You're visiting the profile of Sunnyshineshow
 
-Currently a security consultant, I spend my time studying cybersecurity and doing some (seems to be) nonsense projects that help with my daily life.
+Currently a security consultant, I spend my time studying cybersecurity and doing some (seems to be) nonsense projects that assist my daily life.
 
 Feel free to look around if you find anything interesting.
 
