@@ -5,7 +5,7 @@ Currently a security consultant, I spend my time studying cybersecurity and doin
 Feel free to look around if you find anything interesting.
 
 Anyway, here's an image of Shibuya Kanon
-![Shibuya Kanon](https://media1.tenor.com/m/tHswBoYy_HIAAAAC/kanon-shibuya-love-live.gif)
+![ShibuyaKanon](https://media1.tenor.com/m/tHswBoYy_HIAAAAC/kanon-shibuya-love-live.gif)
 <!--
 **Sunnyshineshow/Sunnyshineshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
